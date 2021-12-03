@@ -13,5 +13,5 @@ Docker<br>
 docker build . – создание image<br>
 docker run -d -p 5000:5000 <image_ID> - запуск образа<br>
 
-Приложение доступно по адрессу https://neuronet-test-task.herokuapp.com/<br>
+Приложение доступно по адресу https://neuronet-test-task.herokuapp.com/<br>
 
